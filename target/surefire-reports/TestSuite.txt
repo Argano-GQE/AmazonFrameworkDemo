@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 45.553 s <<< FAILURE! - in TestSuite
+ErrorTextvalidation(com.Argano.testcases.AmazonServices)  Time elapsed: 1.16 s  <<< FAILURE!
+java.lang.AssertionError: expected [Enter your email or mobile phone numbers update] but found [Enter your email or mobile phone number]
+	at com.Argano.testcases.AmazonServices.ErrorTextvalidation(AmazonServices.java:46)
+
